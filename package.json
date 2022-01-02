@@ -1,0 +1,16 @@
+{
+  "dependencies": {
+    "express": "^4.17.2",
+    "joi": "^17.5.0",
+    "jsonwebtoken": "^8.5.1",
+    "mongoose": "^6.1.4",
+    "mysql2": "^2.3.3",
+    "nodemon": "^2.0.15",
+    "sequelize": "^6.12.4",
+    "socket.io": "^4.4.0"
+  },
+  "devDependencies": {
+    "husky": "^4.3.8",
+    "sequelize-cli": "^6.3.0"
+  }
+}
